@@ -352,7 +352,7 @@ grep ERROR logs/app.log
 
 ## 📝 更新日志
 
-### v1.0.0 (2024-12-XX)
+### v0.0.1
 - ✨ 初始版本发布
 - 🔄 支持Excel、CSV、TXT文件格式
 - 🤖 集成OpenAI、DeepSeek、千问、Ollama四大AI服务
