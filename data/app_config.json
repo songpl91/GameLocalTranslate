@@ -1,0 +1,9 @@
+{
+  "provider": "ollama",
+  "config": {
+    "base_url": "http://127.0.0.1:11434",
+    "model": "qwen3:8b"
+  },
+  "source_lang": "en",
+  "target_lang": "zh"
+}
